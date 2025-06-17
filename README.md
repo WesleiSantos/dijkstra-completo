@@ -23,7 +23,7 @@ Aplicação gráfica para geração, visualização e análise de grafos bidirec
 ```bash
 git clone https://github.com/WesleiSantos/dijkstra-completo.git
 cd dijkstra-completo
-pip install -r requirements.txt
+python3 dijkstra.py
 ```
 
 ## USO
